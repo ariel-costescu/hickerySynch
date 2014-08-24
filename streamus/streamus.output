@@ -1,0 +1,9 @@
+trying id=16ptWIZ36F4
+response status 200
+response body {"playlistId":"310df56d-d23a-47ed-b099-a39001752c91","id":"00d6edd0-0548-4e82-b9ba-a391012a9dc5","sequence":4450000.0,"title":"(Crosses) - The Epilogue (Official Music Video)","cid":"c414","song":{"id":"16ptWIZ36F4","type":1,"title":"(Crosses) - The Epilogue (Official Music Video)","duration":171,"author":"","highDefinition":false}}
+trying id=QBN-1Q0_Fiw
+response status 200
+response body {"playlistId":"310df56d-d23a-47ed-b099-a39001752c91","id":"6c9fe623-ac81-4a9d-b401-a391012a9f55","sequence":5860000.0,"title":"Crosses  - Bitches Brew ","cid":"c414","song":{"id":"QBN-1Q0_Fiw","type":1,"title":"Crosses  - Bitches Brew ","duration":171,"author":"","highDefinition":false}}
+trying id=mYIfiQlfaas
+response status 200
+response body {"playlistId":"310df56d-d23a-47ed-b099-a39001752c91","id":"0a694d89-8185-4929-b30b-a391012aa093","sequence":6390000.0,"title":"Olafur Arnalds - Ljosio ","cid":"c414","song":{"id":"mYIfiQlfaas","type":1,"title":"Olafur Arnalds - Ljosio ","duration":171,"author":"","highDefinition":false}}
